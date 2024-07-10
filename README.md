@@ -1,1 +1,2 @@
-Sample Code
+# QTFlexiquiz
+Flexiquiz Project repository
